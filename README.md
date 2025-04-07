@@ -12,7 +12,7 @@ This project presents a comprehensive study on predictive modeling of urban tran
 - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
-- [📊 Data Sources](#-data-sources)
+- [Data Sources](#-data-sources)
 - [Usage](#usage)
 - [Contributors](#contributors)
 - [Acknowledgments](#acknowledgments)
